@@ -1,0 +1,24 @@
+{
+  "Compartments": [
+    {
+      "compartmentId": "ocid1.tenancy.oc1..aaaaaaaacsuxrw55h4bpl4yr7vmek5qsmi62siwxabwhe42truevitv5fnza",
+      "id": "ocid1.compartment.oc1..aaaaaaaa63vnhg4dnyqihno3zla6bxobff4xmbggjs5hhbiqgadsvzqgi7iq",
+      "name": "ManagedCompartmentForPaaS",
+      "description": "idcs-b0b74ca40b7a47d2929dff0fa81228ca|22567442|manuel.gb@gmail.com-757207",
+      "timeCreated": "2019-09-21T21:57:25.779Z",
+      "freeformTags": {},
+      "definedTags": {},
+      "lifecycleState": "ACTIVE"
+    },
+    {
+      "compartmentId": "ocid1.tenancy.oc1..aaaaaaaacsuxrw55h4bpl4yr7vmek5qsmi62siwxabwhe42truevitv5fnza",
+      "id": "ocid1.compartment.oc1..aaaaaaaahvvges5oqbr5mcxc2uzwvbla3dg7n26yr2nuypfztjw6i4riti6q",
+      "name": "Network",
+      "description": "Network Management Compartment",
+      "timeCreated": "2019-09-23T10:07:01.397Z",
+      "freeformTags": {},
+      "definedTags": {},
+      "lifecycleState": "ACTIVE"
+    }
+  ]
+}
